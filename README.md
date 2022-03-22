@@ -9,7 +9,7 @@ Creation of *3 programs*: two of which will **write text** in text zones and the
 ![Functionalities for the first iteration](/_1st_iteration/functionalities.png)
 
 <br>
-The code for the ***two editing programs*** is contained in Task 1 and Task2 while Task3 is the ***display program***. The Send class will just encapsulate the details of sending messages to RabbitMQ. An execution of this application in this stage would like :
+The code for the **two editing programs** is contained in Task 1 and Task2 while Task3 is the **display program**. The Send class will just encapsulate the details of sending messages to RabbitMQ. An execution of this application in this stage would like :
 
 <p align="center">
    <img src="/_1st_iteration/execution_example.png" alt="Example of execution in the first iteration">
